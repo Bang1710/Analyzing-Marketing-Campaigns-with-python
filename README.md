@@ -22,7 +22,7 @@
 | is_correct_lang | A column indicating whether the displayed language and the user's preferred language match. |
 
 ### Project Overview
-This project utilizes marketing campaign data to answer business questions such as "How effective is this campaign?", "Which channel drives the most sign-ups?", "Why is a specific channel underperforming?" The project focuses on measuring conversion rates and retention rates across different marketing channels, as well as analyzing differences among age groups and displayed languages.
+This project utilizes marketing campaign data to answer business questions such as: "How effective is this campaign?" "Which channel drives the most sign-ups?", "Why is a specific channel underperforming?" - The project focuses on measuring conversion rates and retention rates across different marketing channels, as well as analyzing differences among age groups and displayed languages.
 
 ### Analysis Highlights
 The analysis includes various aspects of marketing campaign performance, including:
@@ -33,4 +33,5 @@ The analysis includes various aspects of marketing campaign performance, includi
 - Demographic statistics on age groups and retention rates.
 - Trends in day-of-week registration and conversion rates.
 - Performance of channels and language suitability for users.
+
 For detailed analysis and insights, please refer to the provided Jupyter Notebook or script.
